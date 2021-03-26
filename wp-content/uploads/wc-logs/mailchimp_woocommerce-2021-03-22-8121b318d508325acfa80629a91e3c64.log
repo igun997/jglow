@@ -1,0 +1,10 @@
+2021-03-22T21:51:55+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 30
+2021-03-22T21:56:15+00:00 NOTICE member.sync :: Subscribed Member b_17happy@yahoo.com :: Array
+(
+    [status_if_new] => 1
+    [merge_fields] => Array
+        (
+        )
+
+)
+

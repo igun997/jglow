@@ -1,0 +1,14 @@
+#accordion-section-pageloader_gopro_section .accordion-section-title {
+    background-color:#357EF1;
+    border-left-color:#357EF1;
+    color:#fff;
+}
+#accordion-section-pageloader_gopro_section .accordion-section-title::after {
+    color:#fff;
+}
+#accordion-section-pageloader_gopro_section .accordion-section-title {
+	margin:8px;
+	border-radius:4px;
+	padding-top:15px;
+	padding-bottom:15px;
+}

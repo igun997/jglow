@@ -1,0 +1,10 @@
+2021-02-27T10:18:34+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 27
+2021-02-27T10:37:19+00:00 NOTICE member.sync :: Subscribed Member tonythompson40@yahoo.com :: Array
+(
+    [status_if_new] => 1
+    [merge_fields] => Array
+        (
+        )
+
+)
+
